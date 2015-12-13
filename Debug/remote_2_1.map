@@ -1,0 +1,2094 @@
+Archive member included because of file (symbol)
+
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(_cr__main.o)
+                              ./remote_lpc1114/startup/cr_startup_lpc11.o (__main)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(memcpy.o)
+                              ./remote_lpc1114/src/RF22.o (memcpy)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(floor.o)
+                              ./remote_lpc1114/src/RF22.o (floor)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(initio.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(_cr__main.o) (_initio)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(setvbuf.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(initio.o) (setvbuf)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(stdio.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(initio.o) (__Ciob)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(memset.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(initio.o) (memset)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__fillbuf.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(stdio.o) (__filbuf)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_deferredlazyseek.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__fillbuf.o) (_deferredlazyseek)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_fdopen.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(initio.o) (_fdopen)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_fflush.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__fillbuf.o) (_fflush)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_writebuf.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_deferredlazyseek.o) (_Cwritebuf)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(alloc.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(initio.o) (_Csys_alloc)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fclose.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(initio.o) (fclose)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fflush.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fclose.o) (fflush)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fseek.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_deferredlazyseek.o) (fseek)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(ftell.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fseek.o) (ftell)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(remove.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fclose.o) (remove)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(strlen.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(remove.o) (strlen)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__init_alloc.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(alloc.o) (__heaps)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_cr_sbrk.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(alloc.o) (_sbrk)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_do_fflush.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fflush.o) (_do_fflush)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(errno.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(ftell.o) (errno)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_cr_check_heap.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_cr_sbrk.o) (__check_heap_overflow)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(division_32.o)
+                              ./remote_lpc1114/src/m0utils.o (__aeabi_idivmod)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(division_idiv0.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(division_32.o) (__aeabi_idiv0)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(floor.o) (__aeabi_dsub)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+                              ./remote_lpc1114/src/RF22.o (__aeabi_fmul)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(llong.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o) (__aeabi_lmul)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(memcpy.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(memcpy.o) (__aeabi_memcpy)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_appexit.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(alloc.o) (__sys_appexit)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_close.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fclose.o) (__sys_close)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_flen.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_writebuf.o) (__sys_flen)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_istty.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_deferredlazyseek.o) (__sys_istty)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_read.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__fillbuf.o) (__sys_read)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_readc.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__fillbuf.o) (__sys_readc)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_remove.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(remove.o) (__sys_remove)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_rename.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(remove.o) (__sys_rename)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_seek.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__fillbuf.o) (__sys_seek)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_tmpnam.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fclose.o) (__sys_tmpnam)
+/Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_write.o)
+                              /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_writebuf.o) (__sys_write)
+
+Allocating common symbols
+Common symbol       size              file
+
+_bufLen             0x1               ./remote_lpc1114/src/RF22.o
+_rxHeaderTo         0x1               ./remote_lpc1114/src/RF22.o
+_lastRssi           0x1               ./remote_lpc1114/src/RF22.o
+_promiscuous        0x1               ./remote_lpc1114/src/RF22.o
+_txGood             0x2               ./remote_lpc1114/src/RF22.o
+_txPacketSent       0x1               ./remote_lpc1114/src/RF22.o
+_retransmissions    0x4               ./remote_lpc1114/src/RHReliableDatagram.o
+_txBufSentIndex     0x1               ./remote_lpc1114/src/RF22.o
+_extra              0x4               /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(initio.o)
+_rxGood             0x2               ./remote_lpc1114/src/RF22.o
+_thisAddress        0x1               ./remote_lpc1114/src/RF22.o
+_txHeaderFrom       0x1               ./remote_lpc1114/src/RF22.o
+_retries            0x1               ./remote_lpc1114/src/RHReliableDatagram.o
+timeLast1           0x4               ./remote_lpc1114/src/trigInput.o
+_txHeaderTo         0x1               ./remote_lpc1114/src/RF22.o
+_seenIds            0x100             ./remote_lpc1114/src/RHReliableDatagram.o
+_txHeaderId         0x1               ./remote_lpc1114/src/RF22.o
+_rxHeaderId         0x1               ./remote_lpc1114/src/RF22.o
+_timeout            0x2               ./remote_lpc1114/src/RHReliableDatagram.o
+_rxBufValid         0x1               ./remote_lpc1114/src/RF22.o
+MsCount             0x4               ./remote_lpc1114/src/main.o
+_rxHeaderFrom       0x1               ./remote_lpc1114/src/RF22.o
+timeLast2           0x4               ./remote_lpc1114/src/trigInput.o
+buf                 0x2c              ./remote_lpc1114/src/main.o
+timeEdge1           0x4               ./remote_lpc1114/src/trigInput.o
+__heaps             0x4               /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__init_alloc.o)
+__end_of_heap       0x4               /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__init_alloc.o)
+_txHeaderFlags      0x1               ./remote_lpc1114/src/RF22.o
+_lastSequenceNumber
+                    0x1               ./remote_lpc1114/src/RHReliableDatagram.o
+_rxBad              0x2               ./remote_lpc1114/src/RF22.o
+__Ciob              0x140             /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(stdio.o)
+_rxHeaderFlags      0x1               ./remote_lpc1114/src/RF22.o
+timeEdge2           0x4               ./remote_lpc1114/src/trigInput.o
+
+Discarded input sections
+
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/startup/cr_startup_lpc11.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/startup/cr_startup_lpc11.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/startup/cr_startup_lpc11.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/startup/cr_startup_lpc11.o
+ .text.SysTick_Handler
+                0x0000000000000000        0x8 ./remote_lpc1114/startup/cr_startup_lpc11.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RF22.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RF22.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RF22.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RF22.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RF22.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RF22.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RF22.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RF22.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RF22.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RF22.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RF22.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RF22.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RF22.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RF22.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RF22.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RF22.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RF22.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/src/RF22.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/src/RF22.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/src/RF22.o
+ .rodata.LPC_GPIO
+                0x0000000000000000       0x10 ./remote_lpc1114/src/RF22.o
+ .text.adcRead  0x0000000000000000       0x88 ./remote_lpc1114/src/RF22.o
+ .text.wutRead  0x0000000000000000       0x2c ./remote_lpc1114/src/RF22.o
+ .text.setWutPeriod
+                0x0000000000000000       0x68 ./remote_lpc1114/src/RF22.o
+ .text.setFHStepSize
+                0x0000000000000000       0x34 ./remote_lpc1114/src/RF22.o
+ .text.setFHChannel
+                0x0000000000000000       0x34 ./remote_lpc1114/src/RF22.o
+ .text.rssiRead
+                0x0000000000000000       0x14 ./remote_lpc1114/src/RF22.o
+ .text.ezmacStatusRead
+                0x0000000000000000       0x14 ./remote_lpc1114/src/RF22.o
+ .text.waitAvailable
+                0x0000000000000000       0x14 ./remote_lpc1114/src/RF22.o
+ .text.resetTxFifo
+                0x0000000000000000       0x18 ./remote_lpc1114/src/RF22.o
+ .text.lastRssi
+                0x0000000000000000       0x18 ./remote_lpc1114/src/RF22.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/src/RF22.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RHReliableDatagram.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RHReliableDatagram.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RHReliableDatagram.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RHReliableDatagram.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RHReliableDatagram.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RHReliableDatagram.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RHReliableDatagram.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RHReliableDatagram.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RHReliableDatagram.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/RHReliableDatagram.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/src/RHReliableDatagram.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/src/RHReliableDatagram.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/src/RHReliableDatagram.o
+ .text.setTimeout
+                0x0000000000000000       0x20 ./remote_lpc1114/src/RHReliableDatagram.o
+ .text.setRetries
+                0x0000000000000000       0x20 ./remote_lpc1114/src/RHReliableDatagram.o
+ .text.retries  0x0000000000000000       0x14 ./remote_lpc1114/src/RHReliableDatagram.o
+ .text.retransmissions
+                0x0000000000000000       0x14 ./remote_lpc1114/src/RHReliableDatagram.o
+ .text.resetRetransmissions
+                0x0000000000000000       0x14 ./remote_lpc1114/src/RHReliableDatagram.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/src/RHReliableDatagram.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/src/RHReliableDatagram.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/src/RHReliableDatagram.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/src/RHReliableDatagram.o
+ .debug_macro   0x0000000000000000       0xa0 ./remote_lpc1114/src/RHReliableDatagram.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/src/RHReliableDatagram.o
+ .debug_macro   0x0000000000000000       0xc4 ./remote_lpc1114/src/RHReliableDatagram.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/src/RHReliableDatagram.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/led.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/led.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/led.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/led.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/led.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/led.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/src/led.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/src/led.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/src/led.o
+ .text.ledOn    0x0000000000000000       0x14 ./remote_lpc1114/src/led.o
+ .text.ledOff   0x0000000000000000       0x14 ./remote_lpc1114/src/led.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/src/led.o
+ .debug_macro   0x0000000000000000       0xa0 ./remote_lpc1114/src/led.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/src/led.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/src/led.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/m0utils.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/src/m0utils.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/src/m0utils.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/src/m0utils.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/src/m0utils.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/src/main.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/src/main.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/src/main.o
+ .rodata.LPC_GPIO
+                0x0000000000000000       0x10 ./remote_lpc1114/src/main.o
+ .text.readHwId
+                0x0000000000000000        0x8 ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000000000       0x8d ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000000000      0x123 ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000000000       0xa0 ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000000000       0x28 ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000000000       0xc4 ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000000000      0x7cf ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000000000       0x16 ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000000000       0xe8 ./remote_lpc1114/src/main.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/spi.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/spi.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/spi.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/spi.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/spi.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/spi.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/spi.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/spi.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/spi.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/spi.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/src/spi.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/src/spi.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/src/spi.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/src/spi.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/src/spi.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/src/spi.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/src/spi.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/src/spi.o
+ .debug_macro   0x0000000000000000      0x398 ./remote_lpc1114/src/spi.o
+ .debug_macro   0x0000000000000000       0x8d ./remote_lpc1114/src/spi.o
+ .debug_macro   0x0000000000000000      0x123 ./remote_lpc1114/src/spi.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/src/spi.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/trigInput.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/trigInput.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/trigInput.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/trigInput.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/trigInput.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/trigInput.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/trigInput.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/trigInput.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/trigInput.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/trigInput.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/trigInput.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/trigInput.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/trigInput.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/trigInput.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/src/trigInput.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/src/trigInput.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/src/trigInput.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/src/trigInput.o
+ .rodata.LPC_GPIO
+                0x0000000000000000       0x10 ./remote_lpc1114/src/trigInput.o
+ .text.trigInputRead
+                0x0000000000000000       0x94 ./remote_lpc1114/src/trigInput.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/src/trigInput.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/src/trigInput.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/src/trigInput.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/src/trigInput.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/src/trigInput.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/src/trigInput.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/src/trigInput.o
+ .debug_macro   0x0000000000000000      0x37a ./remote_lpc1114/src/trigInput.o
+ .debug_macro   0x0000000000000000       0x8d ./remote_lpc1114/src/trigInput.o
+ .debug_macro   0x0000000000000000      0x123 ./remote_lpc1114/src/trigInput.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/src/trigInput.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/src/trigInput.o
+ .debug_macro   0x0000000000000000       0xa0 ./remote_lpc1114/src/trigInput.o
+ .debug_macro   0x0000000000000000       0xc4 ./remote_lpc1114/src/trigInput.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/src/trigInput.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/adc.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/adc.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/adc.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/adc.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/adc.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/adc.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/adc.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/adc.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/adc.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/adc.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/driver/adc.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/driver/adc.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/driver/adc.o
+ .debug_info    0x0000000000000000       0x6f ./remote_lpc1114/driver/adc.o
+ .debug_abbrev  0x0000000000000000       0x29 ./remote_lpc1114/driver/adc.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./remote_lpc1114/driver/adc.o
+ .debug_macro   0x0000000000000000       0x70 ./remote_lpc1114/driver/adc.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/driver/adc.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/driver/adc.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/adc.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/driver/adc.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/driver/adc.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/driver/adc.o
+ .debug_macro   0x0000000000000000      0x37a ./remote_lpc1114/driver/adc.o
+ .debug_macro   0x0000000000000000       0x8d ./remote_lpc1114/driver/adc.o
+ .debug_macro   0x0000000000000000      0x123 ./remote_lpc1114/driver/adc.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/adc.o
+ .debug_line    0x0000000000000000      0x2a9 ./remote_lpc1114/driver/adc.o
+ .debug_str     0x0000000000000000     0x59bc ./remote_lpc1114/driver/adc.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/driver/adc.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./remote_lpc1114/driver/adc.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/can.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/can.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/can.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/can.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/can.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/can.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/can.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/can.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/can.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/can.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/driver/can.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/driver/can.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/driver/can.o
+ .debug_info    0x0000000000000000       0x6f ./remote_lpc1114/driver/can.o
+ .debug_abbrev  0x0000000000000000       0x29 ./remote_lpc1114/driver/can.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./remote_lpc1114/driver/can.o
+ .debug_macro   0x0000000000000000       0x70 ./remote_lpc1114/driver/can.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/driver/can.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/driver/can.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/can.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/driver/can.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/driver/can.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/driver/can.o
+ .debug_macro   0x0000000000000000      0x37a ./remote_lpc1114/driver/can.o
+ .debug_macro   0x0000000000000000       0x8d ./remote_lpc1114/driver/can.o
+ .debug_macro   0x0000000000000000      0x123 ./remote_lpc1114/driver/can.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/can.o
+ .debug_line    0x0000000000000000      0x2a9 ./remote_lpc1114/driver/can.o
+ .debug_str     0x0000000000000000     0x59bc ./remote_lpc1114/driver/can.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/driver/can.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./remote_lpc1114/driver/can.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/clkconfig.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/clkconfig.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/clkconfig.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/clkconfig.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/clkconfig.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/clkconfig.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/clkconfig.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/clkconfig.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/clkconfig.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/clkconfig.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/driver/clkconfig.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/driver/clkconfig.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/driver/clkconfig.o
+ .debug_info    0x0000000000000000       0x6f ./remote_lpc1114/driver/clkconfig.o
+ .debug_abbrev  0x0000000000000000       0x29 ./remote_lpc1114/driver/clkconfig.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./remote_lpc1114/driver/clkconfig.o
+ .debug_macro   0x0000000000000000       0x70 ./remote_lpc1114/driver/clkconfig.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/driver/clkconfig.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/driver/clkconfig.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/clkconfig.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/driver/clkconfig.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/driver/clkconfig.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/driver/clkconfig.o
+ .debug_macro   0x0000000000000000      0x37a ./remote_lpc1114/driver/clkconfig.o
+ .debug_macro   0x0000000000000000       0x8d ./remote_lpc1114/driver/clkconfig.o
+ .debug_macro   0x0000000000000000      0x123 ./remote_lpc1114/driver/clkconfig.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/clkconfig.o
+ .debug_line    0x0000000000000000      0x2af ./remote_lpc1114/driver/clkconfig.o
+ .debug_str     0x0000000000000000     0x59c2 ./remote_lpc1114/driver/clkconfig.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/driver/clkconfig.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./remote_lpc1114/driver/clkconfig.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/crp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/crp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/crp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/crp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/crp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/crp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/crp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/crp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/crp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/crp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/crp.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/driver/crp.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/driver/crp.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/driver/crp.o
+ .crp           0x0000000000000000        0x4 ./remote_lpc1114/driver/crp.o
+ .debug_info    0x0000000000000000       0x90 ./remote_lpc1114/driver/crp.o
+ .debug_abbrev  0x0000000000000000       0x4e ./remote_lpc1114/driver/crp.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./remote_lpc1114/driver/crp.o
+ .debug_macro   0x0000000000000000       0x92 ./remote_lpc1114/driver/crp.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/driver/crp.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/driver/crp.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/crp.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/driver/crp.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/driver/crp.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/driver/crp.o
+ .debug_macro   0x0000000000000000      0x37a ./remote_lpc1114/driver/crp.o
+ .debug_macro   0x0000000000000000       0x8d ./remote_lpc1114/driver/crp.o
+ .debug_macro   0x0000000000000000      0x123 ./remote_lpc1114/driver/crp.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/crp.o
+ .debug_macro   0x0000000000000000       0x28 ./remote_lpc1114/driver/crp.o
+ .debug_line    0x0000000000000000      0x3c4 ./remote_lpc1114/driver/crp.o
+ .debug_str     0x0000000000000000     0x5a74 ./remote_lpc1114/driver/crp.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/driver/crp.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./remote_lpc1114/driver/crp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/debug_printf.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/debug_printf.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/debug_printf.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/debug_printf.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/debug_printf.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/debug_printf.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/debug_printf.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/debug_printf.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/debug_printf.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/debug_printf.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/driver/debug_printf.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/driver/debug_printf.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/driver/debug_printf.o
+ .debug_info    0x0000000000000000       0x6f ./remote_lpc1114/driver/debug_printf.o
+ .debug_abbrev  0x0000000000000000       0x29 ./remote_lpc1114/driver/debug_printf.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./remote_lpc1114/driver/debug_printf.o
+ .debug_macro   0x0000000000000000       0x70 ./remote_lpc1114/driver/debug_printf.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/driver/debug_printf.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/driver/debug_printf.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/debug_printf.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/driver/debug_printf.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/driver/debug_printf.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/driver/debug_printf.o
+ .debug_macro   0x0000000000000000      0x37a ./remote_lpc1114/driver/debug_printf.o
+ .debug_macro   0x0000000000000000       0x8d ./remote_lpc1114/driver/debug_printf.o
+ .debug_macro   0x0000000000000000      0x123 ./remote_lpc1114/driver/debug_printf.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/debug_printf.o
+ .debug_line    0x0000000000000000      0x2b2 ./remote_lpc1114/driver/debug_printf.o
+ .debug_str     0x0000000000000000     0x59c5 ./remote_lpc1114/driver/debug_printf.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/driver/debug_printf.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./remote_lpc1114/driver/debug_printf.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/gpio.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/driver/gpio.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/driver/gpio.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/driver/gpio.o
+ .text.GPIOIntDisable
+                0x0000000000000000       0xa8 ./remote_lpc1114/driver/gpio.o
+ .text.GPIOIntStatus
+                0x0000000000000000       0xac ./remote_lpc1114/driver/gpio.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/driver/gpio.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/driver/gpio.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/gpio.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/driver/gpio.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/driver/gpio.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/driver/gpio.o
+ .debug_macro   0x0000000000000000      0x37a ./remote_lpc1114/driver/gpio.o
+ .debug_macro   0x0000000000000000       0x8d ./remote_lpc1114/driver/gpio.o
+ .debug_macro   0x0000000000000000      0x123 ./remote_lpc1114/driver/gpio.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/gpio.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/i2c.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/i2c.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/i2c.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/i2c.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/i2c.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/i2c.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/i2c.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/i2c.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/i2c.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/i2c.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/driver/i2c.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/driver/i2c.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/driver/i2c.o
+ .debug_info    0x0000000000000000       0x6f ./remote_lpc1114/driver/i2c.o
+ .debug_abbrev  0x0000000000000000       0x29 ./remote_lpc1114/driver/i2c.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./remote_lpc1114/driver/i2c.o
+ .debug_macro   0x0000000000000000       0x70 ./remote_lpc1114/driver/i2c.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/driver/i2c.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/driver/i2c.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/i2c.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/driver/i2c.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/driver/i2c.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/driver/i2c.o
+ .debug_macro   0x0000000000000000      0x37a ./remote_lpc1114/driver/i2c.o
+ .debug_macro   0x0000000000000000       0x8d ./remote_lpc1114/driver/i2c.o
+ .debug_macro   0x0000000000000000      0x123 ./remote_lpc1114/driver/i2c.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/i2c.o
+ .debug_line    0x0000000000000000      0x2a9 ./remote_lpc1114/driver/i2c.o
+ .debug_str     0x0000000000000000     0x59bc ./remote_lpc1114/driver/i2c.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/driver/i2c.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./remote_lpc1114/driver/i2c.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/i2cslave.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/i2cslave.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/i2cslave.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/i2cslave.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/i2cslave.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/i2cslave.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/i2cslave.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/i2cslave.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/i2cslave.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/i2cslave.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/driver/i2cslave.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/driver/i2cslave.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/driver/i2cslave.o
+ .debug_info    0x0000000000000000       0x6f ./remote_lpc1114/driver/i2cslave.o
+ .debug_abbrev  0x0000000000000000       0x29 ./remote_lpc1114/driver/i2cslave.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./remote_lpc1114/driver/i2cslave.o
+ .debug_macro   0x0000000000000000       0x70 ./remote_lpc1114/driver/i2cslave.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/driver/i2cslave.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/driver/i2cslave.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/i2cslave.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/driver/i2cslave.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/driver/i2cslave.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/driver/i2cslave.o
+ .debug_macro   0x0000000000000000      0x37a ./remote_lpc1114/driver/i2cslave.o
+ .debug_macro   0x0000000000000000       0x8d ./remote_lpc1114/driver/i2cslave.o
+ .debug_macro   0x0000000000000000      0x123 ./remote_lpc1114/driver/i2cslave.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/i2cslave.o
+ .debug_line    0x0000000000000000      0x2ae ./remote_lpc1114/driver/i2cslave.o
+ .debug_str     0x0000000000000000     0x59c1 ./remote_lpc1114/driver/i2cslave.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/driver/i2cslave.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./remote_lpc1114/driver/i2cslave.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/lpc_swu.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/lpc_swu.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/lpc_swu.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/lpc_swu.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/lpc_swu.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/lpc_swu.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/lpc_swu.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/lpc_swu.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/lpc_swu.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/lpc_swu.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/driver/lpc_swu.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/driver/lpc_swu.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/driver/lpc_swu.o
+ .debug_info    0x0000000000000000       0x6f ./remote_lpc1114/driver/lpc_swu.o
+ .debug_abbrev  0x0000000000000000       0x29 ./remote_lpc1114/driver/lpc_swu.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./remote_lpc1114/driver/lpc_swu.o
+ .debug_macro   0x0000000000000000       0x70 ./remote_lpc1114/driver/lpc_swu.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/driver/lpc_swu.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/driver/lpc_swu.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/lpc_swu.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/driver/lpc_swu.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/driver/lpc_swu.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/driver/lpc_swu.o
+ .debug_macro   0x0000000000000000      0x37a ./remote_lpc1114/driver/lpc_swu.o
+ .debug_macro   0x0000000000000000       0x8d ./remote_lpc1114/driver/lpc_swu.o
+ .debug_macro   0x0000000000000000      0x123 ./remote_lpc1114/driver/lpc_swu.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/lpc_swu.o
+ .debug_line    0x0000000000000000      0x2ad ./remote_lpc1114/driver/lpc_swu.o
+ .debug_str     0x0000000000000000     0x59c0 ./remote_lpc1114/driver/lpc_swu.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/driver/lpc_swu.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./remote_lpc1114/driver/lpc_swu.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/rs485.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/rs485.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/rs485.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/rs485.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/rs485.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/rs485.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/rs485.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/rs485.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/rs485.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/rs485.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/driver/rs485.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/driver/rs485.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/driver/rs485.o
+ .debug_info    0x0000000000000000       0x6f ./remote_lpc1114/driver/rs485.o
+ .debug_abbrev  0x0000000000000000       0x29 ./remote_lpc1114/driver/rs485.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./remote_lpc1114/driver/rs485.o
+ .debug_macro   0x0000000000000000       0x70 ./remote_lpc1114/driver/rs485.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/driver/rs485.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/driver/rs485.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/rs485.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/driver/rs485.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/driver/rs485.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/driver/rs485.o
+ .debug_macro   0x0000000000000000      0x37a ./remote_lpc1114/driver/rs485.o
+ .debug_macro   0x0000000000000000       0x8d ./remote_lpc1114/driver/rs485.o
+ .debug_macro   0x0000000000000000      0x123 ./remote_lpc1114/driver/rs485.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/rs485.o
+ .debug_line    0x0000000000000000      0x2ab ./remote_lpc1114/driver/rs485.o
+ .debug_str     0x0000000000000000     0x59be ./remote_lpc1114/driver/rs485.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/driver/rs485.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./remote_lpc1114/driver/rs485.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/small_gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/small_gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/small_gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/small_gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/small_gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/small_gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/small_gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/small_gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/small_gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/small_gpio.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/driver/small_gpio.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/driver/small_gpio.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/driver/small_gpio.o
+ .debug_info    0x0000000000000000       0x6f ./remote_lpc1114/driver/small_gpio.o
+ .debug_abbrev  0x0000000000000000       0x29 ./remote_lpc1114/driver/small_gpio.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./remote_lpc1114/driver/small_gpio.o
+ .debug_macro   0x0000000000000000       0x70 ./remote_lpc1114/driver/small_gpio.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/driver/small_gpio.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/driver/small_gpio.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/small_gpio.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/driver/small_gpio.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/driver/small_gpio.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/driver/small_gpio.o
+ .debug_macro   0x0000000000000000      0x37a ./remote_lpc1114/driver/small_gpio.o
+ .debug_macro   0x0000000000000000       0x8d ./remote_lpc1114/driver/small_gpio.o
+ .debug_macro   0x0000000000000000      0x123 ./remote_lpc1114/driver/small_gpio.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/small_gpio.o
+ .debug_line    0x0000000000000000      0x2b0 ./remote_lpc1114/driver/small_gpio.o
+ .debug_str     0x0000000000000000     0x59c3 ./remote_lpc1114/driver/small_gpio.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/driver/small_gpio.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./remote_lpc1114/driver/small_gpio.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/ssp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/ssp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/ssp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/ssp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/ssp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/ssp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/ssp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/ssp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/ssp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/ssp.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/driver/ssp.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/driver/ssp.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/driver/ssp.o
+ .debug_info    0x0000000000000000       0x6f ./remote_lpc1114/driver/ssp.o
+ .debug_abbrev  0x0000000000000000       0x29 ./remote_lpc1114/driver/ssp.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./remote_lpc1114/driver/ssp.o
+ .debug_macro   0x0000000000000000       0x70 ./remote_lpc1114/driver/ssp.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/driver/ssp.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/driver/ssp.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/ssp.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/driver/ssp.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/driver/ssp.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/driver/ssp.o
+ .debug_macro   0x0000000000000000      0x37a ./remote_lpc1114/driver/ssp.o
+ .debug_macro   0x0000000000000000       0x8d ./remote_lpc1114/driver/ssp.o
+ .debug_macro   0x0000000000000000      0x123 ./remote_lpc1114/driver/ssp.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/ssp.o
+ .debug_line    0x0000000000000000      0x2a9 ./remote_lpc1114/driver/ssp.o
+ .debug_str     0x0000000000000000     0x59bc ./remote_lpc1114/driver/ssp.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/driver/ssp.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./remote_lpc1114/driver/ssp.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer16.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer16.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer16.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer16.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer16.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer16.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer16.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer16.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer16.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer16.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/driver/timer16.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/driver/timer16.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/driver/timer16.o
+ .debug_info    0x0000000000000000       0x6f ./remote_lpc1114/driver/timer16.o
+ .debug_abbrev  0x0000000000000000       0x29 ./remote_lpc1114/driver/timer16.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./remote_lpc1114/driver/timer16.o
+ .debug_macro   0x0000000000000000       0x7a ./remote_lpc1114/driver/timer16.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/driver/timer16.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/driver/timer16.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/timer16.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/driver/timer16.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/driver/timer16.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/driver/timer16.o
+ .debug_macro   0x0000000000000000      0x37a ./remote_lpc1114/driver/timer16.o
+ .debug_macro   0x0000000000000000       0x8d ./remote_lpc1114/driver/timer16.o
+ .debug_macro   0x0000000000000000      0x123 ./remote_lpc1114/driver/timer16.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/timer16.o
+ .debug_line    0x0000000000000000      0x2ef ./remote_lpc1114/driver/timer16.o
+ .debug_str     0x0000000000000000     0x59cd ./remote_lpc1114/driver/timer16.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/driver/timer16.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./remote_lpc1114/driver/timer16.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer32.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer32.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer32.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer32.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer32.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer32.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer32.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer32.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer32.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer32.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/timer32.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/driver/timer32.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/driver/timer32.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/driver/timer32.o
+ .text.NVIC_EnableIRQ
+                0x0000000000000000       0x2c ./remote_lpc1114/driver/timer32.o
+ .bss.timer32_0_period
+                0x0000000000000000        0x4 ./remote_lpc1114/driver/timer32.o
+ .bss.timer32_1_period
+                0x0000000000000000        0x4 ./remote_lpc1114/driver/timer32.o
+ .text.delay32Ms
+                0x0000000000000000       0xd8 ./remote_lpc1114/driver/timer32.o
+ .text.enable_timer32
+                0x0000000000000000       0x34 ./remote_lpc1114/driver/timer32.o
+ .text.disable_timer32
+                0x0000000000000000       0x34 ./remote_lpc1114/driver/timer32.o
+ .text.reset_timer32
+                0x0000000000000000       0x50 ./remote_lpc1114/driver/timer32.o
+ .text.init_timer32
+                0x0000000000000000      0x144 ./remote_lpc1114/driver/timer32.o
+ .text.init_timer32PWM
+                0x0000000000000000      0x228 ./remote_lpc1114/driver/timer32.o
+ .text.setMatch_timer32PWM
+                0x0000000000000000       0xa0 ./remote_lpc1114/driver/timer32.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/driver/timer32.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/driver/timer32.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/timer32.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/driver/timer32.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/driver/timer32.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/driver/timer32.o
+ .debug_macro   0x0000000000000000      0x37a ./remote_lpc1114/driver/timer32.o
+ .debug_macro   0x0000000000000000       0x8d ./remote_lpc1114/driver/timer32.o
+ .debug_macro   0x0000000000000000      0x123 ./remote_lpc1114/driver/timer32.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/timer32.o
+ .debug_macro   0x0000000000000000       0x46 ./remote_lpc1114/driver/timer32.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/uart.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/uart.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/uart.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/uart.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/uart.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/uart.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/uart.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/uart.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/uart.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/uart.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/driver/uart.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/driver/uart.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/driver/uart.o
+ .debug_info    0x0000000000000000       0x6f ./remote_lpc1114/driver/uart.o
+ .debug_abbrev  0x0000000000000000       0x29 ./remote_lpc1114/driver/uart.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./remote_lpc1114/driver/uart.o
+ .debug_macro   0x0000000000000000       0x70 ./remote_lpc1114/driver/uart.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/driver/uart.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/driver/uart.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/uart.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/driver/uart.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/driver/uart.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/driver/uart.o
+ .debug_macro   0x0000000000000000      0x37a ./remote_lpc1114/driver/uart.o
+ .debug_macro   0x0000000000000000       0x8d ./remote_lpc1114/driver/uart.o
+ .debug_macro   0x0000000000000000      0x123 ./remote_lpc1114/driver/uart.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/uart.o
+ .debug_line    0x0000000000000000      0x2aa ./remote_lpc1114/driver/uart.o
+ .debug_str     0x0000000000000000     0x59bd ./remote_lpc1114/driver/uart.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/driver/uart.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./remote_lpc1114/driver/uart.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/wdt.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/wdt.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/wdt.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/wdt.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/wdt.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/wdt.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/wdt.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/wdt.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/wdt.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/driver/wdt.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/driver/wdt.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/driver/wdt.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/driver/wdt.o
+ .debug_info    0x0000000000000000       0x6f ./remote_lpc1114/driver/wdt.o
+ .debug_abbrev  0x0000000000000000       0x29 ./remote_lpc1114/driver/wdt.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./remote_lpc1114/driver/wdt.o
+ .debug_macro   0x0000000000000000       0x7a ./remote_lpc1114/driver/wdt.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/driver/wdt.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/driver/wdt.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/wdt.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/driver/wdt.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/driver/wdt.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/driver/wdt.o
+ .debug_macro   0x0000000000000000      0x37a ./remote_lpc1114/driver/wdt.o
+ .debug_macro   0x0000000000000000       0x8d ./remote_lpc1114/driver/wdt.o
+ .debug_macro   0x0000000000000000      0x123 ./remote_lpc1114/driver/wdt.o
+ .debug_macro   0x0000000000000000       0x22 ./remote_lpc1114/driver/wdt.o
+ .debug_line    0x0000000000000000      0x2e7 ./remote_lpc1114/driver/wdt.o
+ .debug_str     0x0000000000000000     0x59c5 ./remote_lpc1114/driver/wdt.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/driver/wdt.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./remote_lpc1114/driver/wdt.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/cmsis/core_cm0.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/cmsis/core_cm0.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/cmsis/core_cm0.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/cmsis/core_cm0.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/cmsis/core_cm0.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/cmsis/core_cm0.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/cmsis/core_cm0.o
+ .text.__get_PSP
+                0x0000000000000000       0x10 ./remote_lpc1114/cmsis/core_cm0.o
+ .text.__set_PSP
+                0x0000000000000000        0x8 ./remote_lpc1114/cmsis/core_cm0.o
+ .text.__get_MSP
+                0x0000000000000000       0x10 ./remote_lpc1114/cmsis/core_cm0.o
+ .text.__set_MSP
+                0x0000000000000000        0x8 ./remote_lpc1114/cmsis/core_cm0.o
+ .text.__get_PRIMASK
+                0x0000000000000000       0x1c ./remote_lpc1114/cmsis/core_cm0.o
+ .text.__set_PRIMASK
+                0x0000000000000000       0x14 ./remote_lpc1114/cmsis/core_cm0.o
+ .text.__get_CONTROL
+                0x0000000000000000       0x1c ./remote_lpc1114/cmsis/core_cm0.o
+ .text.__set_CONTROL
+                0x0000000000000000       0x14 ./remote_lpc1114/cmsis/core_cm0.o
+ .text.__REV    0x0000000000000000       0x1c ./remote_lpc1114/cmsis/core_cm0.o
+ .text.__REV16  0x0000000000000000       0x24 ./remote_lpc1114/cmsis/core_cm0.o
+ .text.__REVSH  0x0000000000000000       0x24 ./remote_lpc1114/cmsis/core_cm0.o
+ .debug_info    0x0000000000000000      0x27f ./remote_lpc1114/cmsis/core_cm0.o
+ .debug_abbrev  0x0000000000000000       0xa8 ./remote_lpc1114/cmsis/core_cm0.o
+ .debug_aranges
+                0x0000000000000000       0x70 ./remote_lpc1114/cmsis/core_cm0.o
+ .debug_ranges  0x0000000000000000       0x60 ./remote_lpc1114/cmsis/core_cm0.o
+ .debug_macro   0x0000000000000000       0x48 ./remote_lpc1114/cmsis/core_cm0.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/cmsis/core_cm0.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/cmsis/core_cm0.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/cmsis/core_cm0.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/cmsis/core_cm0.o
+ .debug_line    0x0000000000000000      0x1e7 ./remote_lpc1114/cmsis/core_cm0.o
+ .debug_str     0x0000000000000000     0x3b64 ./remote_lpc1114/cmsis/core_cm0.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/cmsis/core_cm0.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./remote_lpc1114/cmsis/core_cm0.o
+ .debug_frame   0x0000000000000000      0x130 ./remote_lpc1114/cmsis/core_cm0.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .text.__NOP    0x0000000000000000        0xc ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .text.SystemInit
+                0x0000000000000000      0x104 ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .debug_macro   0x0000000000000000       0x10 ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .debug_macro   0x0000000000000000      0x12d ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .debug_macro   0x0000000000000000      0x5b2 ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .debug_macro   0x0000000000000000       0x1c ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .debug_macro   0x0000000000000000      0x398 ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .debug_macro   0x0000000000000000       0x8d ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .debug_macro   0x0000000000000000      0x123 ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .group         0x0000000000000000        0x8 ./remote_lpc1114/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .text          0x0000000000000000        0x0 ./remote_lpc1114/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .data          0x0000000000000000        0x0 ./remote_lpc1114/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .bss           0x0000000000000000        0x0 ./remote_lpc1114/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .debug_info    0x0000000000000000       0x21 ./remote_lpc1114/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .debug_abbrev  0x0000000000000000       0x13 ./remote_lpc1114/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .debug_aranges
+                0x0000000000000000       0x18 ./remote_lpc1114/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .debug_macro   0x0000000000000000       0x11 ./remote_lpc1114/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .debug_macro   0x0000000000000000      0x81a ./remote_lpc1114/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .debug_line    0x0000000000000000       0x67 ./remote_lpc1114/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .debug_str     0x0000000000000000     0x2331 ./remote_lpc1114/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .ARM.attributes
+                0x0000000000000000       0x31 ./remote_lpc1114/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(_cr__main.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(_cr__main.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(_cr__main.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(memcpy.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(memcpy.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(memcpy.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(floor.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(floor.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(floor.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(initio.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(initio.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(initio.o)
+ .text._terminateio
+                0x0000000000000000       0x3c /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(initio.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(setvbuf.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(setvbuf.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(setvbuf.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(stdio.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(stdio.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(stdio.o)
+ .text.fgetc    0x0000000000000000       0x1c /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(stdio.o)
+ .text.fputc    0x0000000000000000       0x1e /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(stdio.o)
+ .text.getc     0x0000000000000000       0x1c /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(stdio.o)
+ .text.getchar  0x0000000000000000       0x24 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(stdio.o)
+ .text.putc     0x0000000000000000       0x1e /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(stdio.o)
+ .text.putchar  0x0000000000000000       0x28 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(stdio.o)
+ .text.feof     0x0000000000000000        0x8 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(stdio.o)
+ .text.ferror   0x0000000000000000        0x8 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(stdio.o)
+ .text.clearerr
+                0x0000000000000000       0x10 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(stdio.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(memset.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(memset.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(memset.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__fillbuf.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__fillbuf.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__fillbuf.o)
+ .text._Csys_read_
+                0x0000000000000000       0x22 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__fillbuf.o)
+ .text.__filbuf
+                0x0000000000000000      0x188 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__fillbuf.o)
+ .text._fillb2  0x0000000000000000       0x1c /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__fillbuf.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__fillbuf.o)
+ .ARM.attributes
+                0x0000000000000000       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__fillbuf.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_deferredlazyseek.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_deferredlazyseek.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_deferredlazyseek.o)
+ .text.__flsbuf
+                0x0000000000000000      0x154 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_deferredlazyseek.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_fdopen.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_fdopen.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_fdopen.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_fflush.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_fflush.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_fflush.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_writebuf.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_writebuf.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_writebuf.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(alloc.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(alloc.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(alloc.o)
+ .text.calloc   0x0000000000000000       0x50 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(alloc.o)
+ .text.realloc  0x0000000000000000       0x24 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(alloc.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fclose.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fclose.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fclose.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fflush.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fflush.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fflush.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fseek.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fseek.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fseek.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(ftell.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(ftell.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(ftell.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(remove.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(remove.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(remove.o)
+ .text.rename   0x0000000000000000       0x26 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(remove.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(strlen.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(strlen.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(strlen.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__init_alloc.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__init_alloc.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__init_alloc.o)
+ .text._init_alloc
+                0x0000000000000000       0x14 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__init_alloc.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_cr_sbrk.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_cr_sbrk.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_cr_sbrk.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_do_fflush.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_do_fflush.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_do_fflush.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(errno.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(errno.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(errno.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_cr_check_heap.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_cr_check_heap.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_cr_check_heap.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(division_32.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(division_32.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(division_32.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(division_idiv0.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(division_idiv0.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(division_idiv0.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dmul
+                0x0000000000000000      0x188 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_ddiv
+                0x0000000000000000      0x160 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_drsub
+                0x0000000000000000       0x26 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dneg
+                0x0000000000000000       0x10 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2iz
+                0x0000000000000000       0x48 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2uiz
+                0x0000000000000000       0x38 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2lz
+                0x0000000000000000       0x84 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_d2ulz
+                0x0000000000000000       0x58 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__bhs_ui2d
+                0x0000000000000000       0x5e /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__bhs_ul2d
+                0x0000000000000000       0xb4 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_i2d
+                0x0000000000000000       0x16 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_ui2d
+                0x0000000000000000        0xc /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_l2d
+                0x0000000000000000       0x20 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_ul2d
+                0x0000000000000000        0xc /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmplt
+                0x0000000000000000       0x78 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpgt
+                0x0000000000000000       0x68 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmple
+                0x0000000000000000       0x78 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpge
+                0x0000000000000000       0x70 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_dcmpun
+                0x0000000000000000       0x1c /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_cdcmple
+                0x0000000000000000       0x2e /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text.__aeabi_cdrcmple
+                0x0000000000000000       0x14 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_frsub
+                0x0000000000000000       0x10 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fneg
+                0x0000000000000000        0x8 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2iz
+                0x0000000000000000       0x38 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2lz
+                0x0000000000000000       0x64 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_f2ulz
+                0x0000000000000000       0x40 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+ .text.__bhs_ui2f
+                0x0000000000000000       0x60 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+ .text.__bhs_ul2f
+                0x0000000000000000       0x84 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_i2f
+                0x0000000000000000       0x16 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_ui2f
+                0x0000000000000000        0xc /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_l2f
+                0x0000000000000000       0x20 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_ul2f
+                0x0000000000000000        0xc /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpeq
+                0x0000000000000000       0x20 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmple
+                0x0000000000000000       0x40 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_fcmpun
+                0x0000000000000000       0x16 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_cfcmple
+                0x0000000000000000       0x24 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+ .text.__aeabi_cfrcmple
+                0x0000000000000000        0xe /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(llong.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(llong.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_llsl
+                0x0000000000000000       0x18 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_llsr
+                0x0000000000000000       0x18 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_lasr
+                0x0000000000000000       0x18 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_lcmp
+                0x0000000000000000       0x14 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(llong.o)
+ .text.__aeabi_llong_ulcmp
+                0x0000000000000000       0x10 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(llong.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(memcpy.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(memcpy.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memmove
+                0x0000000000000000       0x1c /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memclr
+                0x0000000000000000        0x6 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(memcpy.o)
+ .text.__aeabi_memset
+                0x0000000000000000        0x8 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(memcpy.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_appexit.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_appexit.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_appexit.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_close.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_close.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_close.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_flen.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_flen.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_flen.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_istty.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_istty.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_istty.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_read.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_read.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_read.o)
+ .text.__sys_read
+                0x0000000000000000        0xc /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_read.o)
+ .ARM.attributes
+                0x0000000000000000       0x21 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_read.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_readc.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_readc.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_readc.o)
+ .text.__sys_readc
+                0x0000000000000000        0x8 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_readc.o)
+ .ARM.attributes
+                0x0000000000000000       0x21 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_readc.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_remove.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_remove.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_remove.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_rename.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_rename.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_rename.o)
+ .text.__sys_rename
+                0x0000000000000000        0xc /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_rename.o)
+ .ARM.attributes
+                0x0000000000000000       0x21 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_rename.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_seek.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_seek.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_seek.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_tmpnam.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_tmpnam.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_tmpnam.o)
+ .text          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_write.o)
+ .data          0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_write.o)
+ .bss           0x0000000000000000        0x0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_write.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+MFlash32         0x0000000000000000 0x0000000000008000 xr
+RamLoc8          0x0000000010000000 0x0000000000002000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD ./remote_lpc1114/startup/cr_startup_lpc11.o
+LOAD ./remote_lpc1114/src/RF22.o
+LOAD ./remote_lpc1114/src/RHReliableDatagram.o
+LOAD ./remote_lpc1114/src/led.o
+LOAD ./remote_lpc1114/src/m0utils.o
+LOAD ./remote_lpc1114/src/main.o
+LOAD ./remote_lpc1114/src/spi.o
+LOAD ./remote_lpc1114/src/trigInput.o
+LOAD ./remote_lpc1114/driver/adc.o
+LOAD ./remote_lpc1114/driver/can.o
+LOAD ./remote_lpc1114/driver/clkconfig.o
+LOAD ./remote_lpc1114/driver/crp.o
+LOAD ./remote_lpc1114/driver/debug_printf.o
+LOAD ./remote_lpc1114/driver/gpio.o
+LOAD ./remote_lpc1114/driver/i2c.o
+LOAD ./remote_lpc1114/driver/i2cslave.o
+LOAD ./remote_lpc1114/driver/lpc_swu.o
+LOAD ./remote_lpc1114/driver/rs485.o
+LOAD ./remote_lpc1114/driver/small_gpio.o
+LOAD ./remote_lpc1114/driver/ssp.o
+LOAD ./remote_lpc1114/driver/timer16.o
+LOAD ./remote_lpc1114/driver/timer32.o
+LOAD ./remote_lpc1114/driver/uart.o
+LOAD ./remote_lpc1114/driver/wdt.o
+LOAD ./remote_lpc1114/cmsis/core_cm0.o
+LOAD ./remote_lpc1114/cmsis/system_LPC11xx.o
+LOAD ./remote_lpc1114/.metadata/.plugins/org.eclipse.cdt.make.core/specs.o
+START GROUP
+LOAD /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a
+LOAD /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a
+LOAD /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a
+END GROUP
+                0x0000000000008000                __top_MFlash32 = 0x8000
+                0x0000000010002000                __top_RamLoc8 = 0x10002000
+
+.text           0x0000000000000000     0x34b4
+ FILL mask 0xff
+                0x0000000000000000                __vectors_start__ = ABSOLUTE (.)
+ *(.isr_vector)
+ .isr_vector    0x0000000000000000       0xc0 ./remote_lpc1114/startup/cr_startup_lpc11.o
+                0x0000000000000000                g_pfnVectors
+                0x00000000000000c0                . = ALIGN (0x4)
+                0x00000000000000c0                __section_table_start = .
+                0x00000000000000c0                __data_section_table = .
+                0x00000000000000c0        0x4 LONG 0x34b4 LOADADDR (.data)
+                0x00000000000000c4        0x4 LONG 0x10000000 ADDR (.data)
+                0x00000000000000c8        0x4 LONG 0x1cc SIZEOF (.data)
+                0x00000000000000cc                __data_section_table_end = .
+                0x00000000000000cc                __bss_section_table = .
+                0x00000000000000cc        0x4 LONG 0x100001cc ADDR (.bss)
+                0x00000000000000d0        0x4 LONG 0x3c8 SIZEOF (.bss)
+                0x00000000000000d4                __bss_section_table_end = .
+                0x00000000000000d4                __section_table_end = .
+ *(.after_vectors*)
+ *(.text*)
+ .text.ResetISR
+                0x00000000000000d4       0x5c ./remote_lpc1114/startup/cr_startup_lpc11.o
+                0x00000000000000d4                ResetISR
+ .text.NMI_Handler
+                0x0000000000000130        0x8 ./remote_lpc1114/startup/cr_startup_lpc11.o
+                0x0000000000000130                NMI_Handler
+ .text.HardFault_Handler
+                0x0000000000000138        0x8 ./remote_lpc1114/startup/cr_startup_lpc11.o
+                0x0000000000000138                HardFault_Handler
+ .text.SVCall_Handler
+                0x0000000000000140        0x8 ./remote_lpc1114/startup/cr_startup_lpc11.o
+                0x0000000000000140                SVCall_Handler
+ .text.PendSV_Handler
+                0x0000000000000148        0x8 ./remote_lpc1114/startup/cr_startup_lpc11.o
+                0x0000000000000148                PendSV_Handler
+ .text.IntDefaultHandler
+                0x0000000000000150        0x8 ./remote_lpc1114/startup/cr_startup_lpc11.o
+                0x0000000000000150                PIOINT3_IRQHandler
+                0x0000000000000150                UART_IRQHandler
+                0x0000000000000150                TIMER32_1_IRQHandler
+                0x0000000000000150                IntDefaultHandler
+                0x0000000000000150                CAN_IRQHandler
+                0x0000000000000150                SSP0_IRQHandler
+                0x0000000000000150                TIMER16_1_IRQHandler
+                0x0000000000000150                ADC_IRQHandler
+                0x0000000000000150                SSP1_IRQHandler
+                0x0000000000000150                BOD_IRQHandler
+                0x0000000000000150                WAKEUP_IRQHandler
+                0x0000000000000150                I2C_IRQHandler
+                0x0000000000000150                WDT_IRQHandler
+                0x0000000000000150                TIMER16_0_IRQHandler
+ .text.NVIC_EnableIRQ
+                0x0000000000000158       0x2c ./remote_lpc1114/src/RF22.o
+ .text.RF22init
+                0x0000000000000184      0x180 ./remote_lpc1114/src/RF22.o
+                0x0000000000000184                RF22init
+ .text.PIOINT0_IRQHandler
+                0x0000000000000304      0x18c ./remote_lpc1114/src/RF22.o
+                0x0000000000000304                PIOINT0_IRQHandler
+ .text.reset    0x0000000000000490       0x2c ./remote_lpc1114/src/RF22.o
+                0x0000000000000490                reset
+ .text.spiRead  0x00000000000004bc       0x58 ./remote_lpc1114/src/RF22.o
+                0x00000000000004bc                spiRead
+ .text.spiWrite
+                0x0000000000000514       0x54 ./remote_lpc1114/src/RF22.o
+                0x0000000000000514                spiWrite
+ .text.spiBurstRead
+                0x0000000000000568       0x58 ./remote_lpc1114/src/RF22.o
+                0x0000000000000568                spiBurstRead
+ .text.spiBurstWrite
+                0x00000000000005c0       0x68 ./remote_lpc1114/src/RF22.o
+                0x00000000000005c0                spiBurstWrite
+ .text.statusRead
+                0x0000000000000628       0x14 ./remote_lpc1114/src/RF22.o
+                0x0000000000000628                statusRead
+ .text.setFrequency
+                0x000000000000063c      0x144 ./remote_lpc1114/src/RF22.o
+                0x000000000000063c                setFrequency
+ .text.setMode  0x0000000000000780       0x20 ./remote_lpc1114/src/RF22.o
+                0x0000000000000780                setMode
+ .text.setModeIdle
+                0x00000000000007a0       0x28 ./remote_lpc1114/src/RF22.o
+                0x00000000000007a0                setModeIdle
+ .text.setModeRx
+                0x00000000000007c8       0x30 ./remote_lpc1114/src/RF22.o
+                0x00000000000007c8                setModeRx
+ .text.setModeTx
+                0x00000000000007f8       0x30 ./remote_lpc1114/src/RF22.o
+                0x00000000000007f8                setModeTx
+ .text.setTxPower
+                0x0000000000000828       0x20 ./remote_lpc1114/src/RF22.o
+                0x0000000000000828                setTxPower
+ .text.setModemRegisters
+                0x0000000000000848       0x68 ./remote_lpc1114/src/RF22.o
+                0x0000000000000848                setModemRegisters
+ .text.setModemConfig
+                0x00000000000008b0       0x50 ./remote_lpc1114/src/RF22.o
+                0x00000000000008b0                setModemConfig
+ .text.setPreambleLength
+                0x0000000000000900       0x20 ./remote_lpc1114/src/RF22.o
+                0x0000000000000900                setPreambleLength
+ .text.setSyncWords
+                0x0000000000000920       0x24 ./remote_lpc1114/src/RF22.o
+                0x0000000000000920                setSyncWords
+ .text.clearRxBuf
+                0x0000000000000944       0x1c ./remote_lpc1114/src/RF22.o
+                0x0000000000000944                clearRxBuf
+ .text.available
+                0x0000000000000960       0x18 ./remote_lpc1114/src/RF22.o
+                0x0000000000000960                available
+ .text.waitAvailableTimeout
+                0x0000000000000978       0x40 ./remote_lpc1114/src/RF22.o
+                0x0000000000000978                waitAvailableTimeout
+ .text.waitPacketSent
+                0x00000000000009b8       0x18 ./remote_lpc1114/src/RF22.o
+                0x00000000000009b8                waitPacketSent
+ .text.recv     0x00000000000009d0       0x58 ./remote_lpc1114/src/RF22.o
+                0x00000000000009d0                recv
+ .text.clearTxBuf
+                0x0000000000000a28       0x28 ./remote_lpc1114/src/RF22.o
+                0x0000000000000a28                clearTxBuf
+ .text.startTransmit
+                0x0000000000000a50       0x24 ./remote_lpc1114/src/RF22.o
+                0x0000000000000a50                startTransmit
+ .text.restartTransmit
+                0x0000000000000a74       0x2c ./remote_lpc1114/src/RF22.o
+                0x0000000000000a74                restartTransmit
+ .text.send     0x0000000000000aa0       0x30 ./remote_lpc1114/src/RF22.o
+                0x0000000000000aa0                send
+ .text.fillTxBuf
+                0x0000000000000ad0       0x2c ./remote_lpc1114/src/RF22.o
+                0x0000000000000ad0                fillTxBuf
+ .text.appendTxBuf
+                0x0000000000000afc       0x64 ./remote_lpc1114/src/RF22.o
+                0x0000000000000afc                appendTxBuf
+ .text.sendNextFragment
+                0x0000000000000b60       0x74 ./remote_lpc1114/src/RF22.o
+                0x0000000000000b60                sendNextFragment
+ .text.readNextFragment
+                0x0000000000000bd4       0x44 ./remote_lpc1114/src/RF22.o
+                0x0000000000000bd4                readNextFragment
+ .text.resetFifos
+                0x0000000000000c18       0x18 ./remote_lpc1114/src/RF22.o
+                0x0000000000000c18                resetFifos
+ .text.resetRxFifo
+                0x0000000000000c30       0x18 ./remote_lpc1114/src/RF22.o
+                0x0000000000000c30                resetRxFifo
+ .text.handleExternalInterrupt
+                0x0000000000000c48        0x8 ./remote_lpc1114/src/RF22.o
+                0x0000000000000c48                handleExternalInterrupt
+ .text.handleWakeupTimerInterrupt
+                0x0000000000000c50        0x8 ./remote_lpc1114/src/RF22.o
+                0x0000000000000c50                handleWakeupTimerInterrupt
+ .text.setHeaderTo
+                0x0000000000000c58       0x20 ./remote_lpc1114/src/RF22.o
+                0x0000000000000c58                setHeaderTo
+ .text.setHeaderFrom
+                0x0000000000000c78       0x20 ./remote_lpc1114/src/RF22.o
+                0x0000000000000c78                setHeaderFrom
+ .text.setHeaderId
+                0x0000000000000c98       0x20 ./remote_lpc1114/src/RF22.o
+                0x0000000000000c98                setHeaderId
+ .text.setHeaderFlags
+                0x0000000000000cb8       0x20 ./remote_lpc1114/src/RF22.o
+                0x0000000000000cb8                setHeaderFlags
+ .text.headerTo
+                0x0000000000000cd8       0x14 ./remote_lpc1114/src/RF22.o
+                0x0000000000000cd8                headerTo
+ .text.headerFrom
+                0x0000000000000cec       0x14 ./remote_lpc1114/src/RF22.o
+                0x0000000000000cec                headerFrom
+ .text.headerId
+                0x0000000000000d00       0x14 ./remote_lpc1114/src/RF22.o
+                0x0000000000000d00                headerId
+ .text.headerFlags
+                0x0000000000000d14       0x14 ./remote_lpc1114/src/RF22.o
+                0x0000000000000d14                headerFlags
+ .text.setPromiscuous
+                0x0000000000000d28       0x28 ./remote_lpc1114/src/RF22.o
+                0x0000000000000d28                setPromiscuous
+ .text.initRHReliableDatagram
+                0x0000000000000d50       0x3c ./remote_lpc1114/src/RHReliableDatagram.o
+                0x0000000000000d50                initRHReliableDatagram
+ .text.sendto   0x0000000000000d8c       0x34 ./remote_lpc1114/src/RHReliableDatagram.o
+                0x0000000000000d8c                sendto
+ .text.recvfrom
+                0x0000000000000dc0       0x78 ./remote_lpc1114/src/RHReliableDatagram.o
+                0x0000000000000dc0                recvfrom
+ .text.sendtoWait
+                0x0000000000000e38      0x1ac ./remote_lpc1114/src/RHReliableDatagram.o
+                0x0000000000000e38                sendtoWait
+ .text.recvfromAck
+                0x0000000000000fe4       0xdc ./remote_lpc1114/src/RHReliableDatagram.o
+                0x0000000000000fe4                recvfromAck
+ .text.recvfromAckTimeout
+                0x00000000000010c0       0x6c ./remote_lpc1114/src/RHReliableDatagram.o
+                0x00000000000010c0                recvfromAckTimeout
+ .text.acknowledge
+                0x000000000000112c       0x48 ./remote_lpc1114/src/RHReliableDatagram.o
+                0x000000000000112c                acknowledge
+ .text.initLed  0x0000000000001174      0x108 ./remote_lpc1114/src/led.o
+                0x0000000000001174                initLed
+ .text.updateLed
+                0x000000000000127c      0x158 ./remote_lpc1114/src/led.o
+                0x000000000000127c                updateLed
+ .text.millis   0x00000000000013d4       0x14 ./remote_lpc1114/src/m0utils.o
+                0x00000000000013d4                millis
+ .text.randomn  0x00000000000013e8       0x24 ./remote_lpc1114/src/m0utils.o
+                0x00000000000013e8                randomn
+ .text.random   0x000000000000140c       0x34 ./remote_lpc1114/src/m0utils.o
+                0x000000000000140c                random
+ .text.delay    0x0000000000001440       0x30 ./remote_lpc1114/src/m0utils.o
+                0x0000000000001440                delay
+ .text.NVIC_SetPriority
+                0x0000000000001470       0xe0 ./remote_lpc1114/src/main.o
+ .text.SysTick_Config
+                0x0000000000001550       0x4c ./remote_lpc1114/src/main.o
+ .text.SysTick_Handler
+                0x000000000000159c       0x18 ./remote_lpc1114/src/main.o
+                0x000000000000159c                SysTick_Handler
+ .text.initError
+                0x00000000000015b4        0xc ./remote_lpc1114/src/main.o
+                0x00000000000015b4                initError
+ .text.sysInit  0x00000000000015c0      0x124 ./remote_lpc1114/src/main.o
+                0x00000000000015c0                sysInit
+ .text.main     0x00000000000016e4       0xb0 ./remote_lpc1114/src/main.o
+                0x00000000000016e4                main
+ .text.SPI_Init
+                0x0000000000001794       0x90 ./remote_lpc1114/src/spi.o
+                0x0000000000001794                SPI_Init
+ .text.SPI_Send
+                0x0000000000001824       0x6c ./remote_lpc1114/src/spi.o
+                0x0000000000001824                SPI_Send
+ .text.SPI_Receive
+                0x0000000000001890       0x50 ./remote_lpc1114/src/spi.o
+                0x0000000000001890                SPI_Receive
+ .text.NVIC_EnableIRQ
+                0x00000000000018e0       0x2c ./remote_lpc1114/src/trigInput.o
+ .text.PIOINT1_IRQHandler
+                0x000000000000190c       0x2c ./remote_lpc1114/src/trigInput.o
+                0x000000000000190c                PIOINT1_IRQHandler
+ .text.PIOINT2_IRQHandler
+                0x0000000000001938       0x2c ./remote_lpc1114/src/trigInput.o
+                0x0000000000001938                PIOINT2_IRQHandler
+ .text.trigInputInit
+                0x0000000000001964       0x94 ./remote_lpc1114/src/trigInput.o
+                0x0000000000001964                trigInputInit
+ .text.GPIOInit
+                0x00000000000019f8       0x20 ./remote_lpc1114/driver/gpio.o
+                0x00000000000019f8                GPIOInit
+ .text.GPIOSetInterrupt
+                0x0000000000001a18      0x31c ./remote_lpc1114/driver/gpio.o
+                0x0000000000001a18                GPIOSetInterrupt
+ .text.GPIOIntEnable
+                0x0000000000001d34       0xa0 ./remote_lpc1114/driver/gpio.o
+                0x0000000000001d34                GPIOIntEnable
+ .text.GPIOIntClear
+                0x0000000000001dd4       0xa0 ./remote_lpc1114/driver/gpio.o
+                0x0000000000001dd4                GPIOIntClear
+ .text.GPIOSetValue
+                0x0000000000001e74       0x38 ./remote_lpc1114/driver/gpio.o
+                0x0000000000001e74                GPIOSetValue
+ .text.GPIOSetDir
+                0x0000000000001eac       0x70 ./remote_lpc1114/driver/gpio.o
+                0x0000000000001eac                GPIOSetDir
+ .text.TIMER32_0_IRQHandler
+                0x0000000000001f1c       0x4c ./remote_lpc1114/driver/timer32.o
+                0x0000000000001f1c                TIMER32_0_IRQHandler
+ .text.SystemCoreClockUpdate
+                0x0000000000001f68      0x21c ./remote_lpc1114/cmsis/system_LPC11xx.o
+                0x0000000000001f68                SystemCoreClockUpdate
+ .text.__main   0x0000000000002184       0x12 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(_cr__main.o)
+                0x0000000000002184                __main
+                0x0000000000002184                __CR_SEMIHOST
+ .text.memcpy   0x0000000000002196        0x8 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(memcpy.o)
+                0x0000000000002196                memcpy
+ *fill*         0x000000000000219e        0x2 
+ .text.floor    0x00000000000021a0       0xb8 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(floor.o)
+                0x00000000000021a0                floor
+ .text._initio  0x0000000000002258       0xa4 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(initio.o)
+                0x0000000000002258                _initio
+ .text.setvbuf  0x00000000000022fc       0x48 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(setvbuf.o)
+                0x00000000000022fc                setvbuf
+ .text.memset   0x0000000000002344        0x8 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(memset.o)
+                0x0000000000002344                memset
+ .text._deferredlazyseek
+                0x000000000000234c       0x44 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_deferredlazyseek.o)
+                0x000000000000234c                _deferredlazyseek
+ .text._fdopen  0x0000000000002390       0x68 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_fdopen.o)
+                0x0000000000002390                _fdopen
+ .text._fflush  0x00000000000023f8       0x64 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_fflush.o)
+                0x00000000000023f8                _fflush
+ .text._Cwritebuf
+                0x000000000000245c       0x6c /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_writebuf.o)
+                0x000000000000245c                _Cwritebuf
+ .text.malloc   0x00000000000024c8       0xc4 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(alloc.o)
+                0x00000000000024c8                malloc
+ .text.free     0x000000000000258c        0xe /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(alloc.o)
+                0x000000000000258c                free
+ *fill*         0x000000000000259a        0x2 
+ .text._Csys_alloc
+                0x000000000000259c       0x20 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(alloc.o)
+                0x000000000000259c                _Csys_alloc
+ .text.fclose   0x00000000000025bc       0x70 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fclose.o)
+                0x00000000000025bc                fclose
+ .text.fflush   0x000000000000262c       0x34 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fflush.o)
+                0x000000000000262c                fflush
+ .text.fseek    0x0000000000002660       0xf8 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fseek.o)
+                0x0000000000002660                fseek
+ .text.ftell    0x0000000000002758       0x4c /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(ftell.o)
+                0x0000000000002758                ftell
+ .text.remove   0x00000000000027a4       0x12 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(remove.o)
+                0x00000000000027a4                remove
+ *fill*         0x00000000000027b6        0x2 
+ .text.strlen   0x00000000000027b8       0x54 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(strlen.o)
+                0x00000000000027b8                strlen
+ .text._sbrk    0x000000000000280c       0x40 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_cr_sbrk.o)
+                0x000000000000280c                _sbrk
+ .text._do_fflush
+                0x000000000000284c       0x48 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_do_fflush.o)
+                0x000000000000284c                _do_fflush
+ .text.__check_heap_overflow
+                0x0000000000002894       0x18 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_cr_check_heap.o)
+                0x0000000000002894                __check_heap_overflow
+ .text.__aeabi_division_idivmod
+                0x00000000000028ac       0x78 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(division_32.o)
+                0x00000000000028ac                __aeabi_idiv
+                0x00000000000028ac                __aeabi_idivmod
+                0x00000000000028b2                __aeabi_uidiv
+                0x00000000000028b2                __aeabi_uidivmod
+ .text.__aeabi_division_idiv0
+                0x0000000000002924        0x2 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(division_idiv0.o)
+                0x0000000000002924                __aeabi_idiv0
+ *fill*         0x0000000000002926        0x2 
+ .text.__aeabi_dsub
+                0x0000000000002928      0x1e8 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+                0x0000000000002928                __aeabi_dsub
+ .text.__aeabi_dadd
+                0x0000000000002b10      0x148 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+                0x0000000000002b10                __aeabi_dadd
+ .text.__aeabi_d2f
+                0x0000000000002c58       0x5c /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+                0x0000000000002c58                __aeabi_d2f
+ .text.__aeabi_dcmpeq
+                0x0000000000002cb4       0x38 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+                0x0000000000002cb4                __aeabi_dcmpeq
+ .text.__aeabi_fmul
+                0x0000000000002cec       0xc8 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+                0x0000000000002cec                __aeabi_fmul
+ .text.__aeabi_fdiv
+                0x0000000000002db4       0xe0 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+                0x0000000000002db4                __aeabi_fdiv
+ .text.__aeabi_fsub
+                0x0000000000002e94      0x130 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+                0x0000000000002e94                __aeabi_fsub
+ .text.__aeabi_fadd
+                0x0000000000002fc4       0xb8 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+                0x0000000000002fc4                __aeabi_fadd
+ .text.__aeabi_f2uiz
+                0x000000000000307c       0x26 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+                0x000000000000307c                __aeabi_f2uiz
+ *fill*         0x00000000000030a2        0x2 
+ .text.__aeabi_f2d
+                0x00000000000030a4       0x3c /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+                0x00000000000030a4                __aeabi_f2d
+ .text.__aeabi_fcmplt
+                0x00000000000030e0       0x42 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+                0x00000000000030e0                __aeabi_fcmplt
+ .text.__aeabi_fcmpgt
+                0x0000000000003122       0x3c /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+                0x0000000000003122                __aeabi_fcmpgt
+ .text.__aeabi_fcmpge
+                0x000000000000315e       0x3c /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+                0x000000000000315e                __aeabi_fcmpge
+ .text.__aeabi_llong_lmul
+                0x000000000000319a       0x2e /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(llong.o)
+                0x000000000000319a                __aeabi_lmul
+ .text.__aeabi_memcpy
+                0x00000000000031c8       0x2c /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(memcpy.o)
+                0x00000000000031c8                __aeabi_memcpy
+                0x00000000000031c8                __aeabi_memcpy4
+                0x00000000000031c8                __aeabi_memcpy8
+ .text.__aeabi_memset_lowlevel
+                0x00000000000031f4       0x2a /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(memcpy.o)
+                0x00000000000031f4                __aeabi_lowlevel_memset
+ *fill*         0x000000000000321e        0x2 
+ .text.__sys_appexit
+                0x0000000000003220        0xc /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_appexit.o)
+                0x0000000000003220                __exit
+                0x0000000000003220                __sys_appexit
+ .text.__sys_close
+                0x000000000000322c        0xc /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_close.o)
+                0x000000000000322c                __sys_close
+ .text.__sys_flen
+                0x0000000000003238        0xc /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_flen.o)
+                0x0000000000003238                __sys_flen
+ .text.__sys_istty
+                0x0000000000003244        0xc /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_istty.o)
+                0x0000000000003244                __sys_istty
+ .text.__sys_remove
+                0x0000000000003250        0xc /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_remove.o)
+                0x0000000000003250                __sys_remove
+ .text.__sys_seek
+                0x000000000000325c        0xc /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_seek.o)
+                0x000000000000325c                __sys_seek
+ .text.__sys_tmpnam
+                0x0000000000003268        0xc /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_tmpnam.o)
+                0x0000000000003268                __sys_tmpnam
+ .text.__sys_write
+                0x0000000000003274        0xc /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_write.o)
+                0x0000000000003274                __write
+                0x0000000000003274                __sys_write
+ *(.rodata .rodata.* .constdata .constdata.*)
+ .rodata.MODEM_CONFIG_TABLE
+                0x0000000000003280      0x1c4 ./remote_lpc1114/src/RF22.o
+ .rodata        0x0000000000003444        0x4 ./remote_lpc1114/src/RF22.o
+ .rodata.LPC_GPIO
+                0x0000000000003448       0x10 ./remote_lpc1114/driver/gpio.o
+ .rodata.SystemCoreClockUpdate
+                0x0000000000003458       0x40 ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .rodata.str1.1
+                0x0000000000003498        0x4 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(initio.o)
+ .rodata.str1.1
+                0x000000000000349c       0x18 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(alloc.o)
+                0x00000000000034b4                . = ALIGN (0x4)
+
+.glue_7         0x00000000000034b4        0x0
+ .glue_7        0x0000000000000000        0x0 linker stubs
+
+.glue_7t        0x00000000000034b4        0x0
+ .glue_7t       0x0000000000000000        0x0 linker stubs
+
+.vfp11_veneer   0x00000000000034b4        0x0
+ .vfp11_veneer  0x0000000000000000        0x0 linker stubs
+
+.v4_bx          0x00000000000034b4        0x0
+ .v4_bx         0x0000000000000000        0x0 linker stubs
+
+.iplt           0x00000000000034b4        0x0
+ .iplt          0x0000000000000000        0x0 ./remote_lpc1114/startup/cr_startup_lpc11.o
+
+.rel.dyn        0x00000000000034b4        0x0
+ .rel.iplt      0x0000000000000000        0x0 ./remote_lpc1114/startup/cr_startup_lpc11.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+                0x00000000000034b4                __exidx_start = .
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x00000000000034b4                __exidx_end = .
+                0x00000000000034b4                _etext = .
+
+.uninit_RESERVED
+                0x0000000010000000        0x0
+ *(.bss.$RESERVED*)
+                0x0000000010000000                . = ALIGN (0x4)
+                0x0000000010000000                _end_uninit_RESERVED = .
+
+.data           0x0000000010000000      0x1cc load address 0x00000000000034b4
+ FILL mask 0xff
+                0x0000000010000000                _data = .
+ *(vtable)
+ *(.ramfunc*)
+ *(.data*)
+ .data.ledStatus
+                0x0000000010000000      0x1b8 ./remote_lpc1114/src/led.o
+ .data.data     0x00000000100001b8       0x10 ./remote_lpc1114/src/main.o
+                0x00000000100001b8                data
+ .data.SystemCoreClock
+                0x00000000100001c8        0x4 ./remote_lpc1114/cmsis/system_LPC11xx.o
+                0x00000000100001c8                SystemCoreClock
+                0x00000000100001cc                . = ALIGN (0x4)
+                0x00000000100001cc                _edata = .
+
+.igot.plt       0x00000000100001cc        0x0 load address 0x0000000000003680
+ .igot.plt      0x0000000000000000        0x0 ./remote_lpc1114/startup/cr_startup_lpc11.o
+
+.bss            0x00000000100001cc      0x3c8 load address 0x0000000000003680
+                0x00000000100001cc                _bss = .
+ *(.bss*)
+ .bss._mode     0x00000000100001cc        0x1 ./remote_lpc1114/src/RF22.o
+ .bss._idleMode
+                0x00000000100001cd        0x1 ./remote_lpc1114/src/RF22.o
+ .bss._slaveSelectPin
+                0x00000000100001ce        0x1 ./remote_lpc1114/src/RF22.o
+ .bss._spiPortNum
+                0x00000000100001cf        0x1 ./remote_lpc1114/src/RF22.o
+ .bss._deviceType
+                0x00000000100001d0        0x1 ./remote_lpc1114/src/RF22.o
+ *fill*         0x00000000100001d1        0x3 
+ .bss._buf      0x00000000100001d4      0x100 ./remote_lpc1114/src/RF22.o
+ .bss.lastState.3803
+                0x00000000100002d4        0x1 ./remote_lpc1114/src/led.o
+ *fill*         0x00000000100002d5        0x3 
+ .bss.timer32_0_counter
+                0x00000000100002d8        0x4 ./remote_lpc1114/driver/timer32.o
+                0x00000000100002d8                timer32_0_counter
+ .bss.timer32_0_capture
+                0x00000000100002dc        0x4 ./remote_lpc1114/driver/timer32.o
+                0x00000000100002dc                timer32_0_capture
+ .bss.errno     0x00000000100002e0        0x4 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(errno.o)
+                0x00000000100002e0                errno
+ *(COMMON)
+ COMMON         0x00000000100002e4       0x15 ./remote_lpc1114/src/RF22.o
+                0x00000000100002e4                _bufLen
+                0x00000000100002e5                _rxHeaderTo
+                0x00000000100002e6                _lastRssi
+                0x00000000100002e7                _promiscuous
+                0x00000000100002e8                _txGood
+                0x00000000100002ea                _txPacketSent
+                0x00000000100002eb                _txBufSentIndex
+                0x00000000100002ec                _rxGood
+                0x00000000100002ee                _thisAddress
+                0x00000000100002ef                _txHeaderFrom
+                0x00000000100002f0                _txHeaderTo
+                0x00000000100002f1                _txHeaderId
+                0x00000000100002f2                _rxHeaderId
+                0x00000000100002f3                _rxBufValid
+                0x00000000100002f4                _rxHeaderFrom
+                0x00000000100002f5                _txHeaderFlags
+                0x00000000100002f6                _rxBad
+                0x00000000100002f8                _rxHeaderFlags
+ *fill*         0x00000000100002f9        0x3 
+ COMMON         0x00000000100002fc      0x10b ./remote_lpc1114/src/RHReliableDatagram.o
+                0x00000000100002fc                _retransmissions
+                0x0000000010000300                _retries
+                0x0000000010000304                _seenIds
+                0x0000000010000404                _timeout
+                0x0000000010000406                _lastSequenceNumber
+ *fill*         0x0000000010000407        0x1 
+ COMMON         0x0000000010000408       0x30 ./remote_lpc1114/src/main.o
+                0x0000000010000408                MsCount
+                0x000000001000040c                buf
+ COMMON         0x0000000010000438       0x10 ./remote_lpc1114/src/trigInput.o
+                0x0000000010000438                timeLast1
+                0x000000001000043c                timeLast2
+                0x0000000010000440                timeEdge1
+                0x0000000010000444                timeEdge2
+ COMMON         0x0000000010000448        0x4 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(initio.o)
+                0x0000000010000448                _extra
+ COMMON         0x000000001000044c      0x140 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(stdio.o)
+                0x000000001000044c                __Ciob
+ COMMON         0x000000001000058c        0x8 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__init_alloc.o)
+                0x000000001000058c                __heaps
+                0x0000000010000590                __end_of_heap
+                0x0000000010000594                . = ALIGN (0x4)
+                0x0000000010000594                _ebss = .
+                0x0000000010000594                PROVIDE (end, .)
+
+.noinit         0x0000000010000594        0x0 load address 0x0000000000003680
+                0x0000000010000594                _noinit = .
+ *(.noinit*)
+                0x0000000010000594                . = ALIGN (0x4)
+                0x0000000010000594                _end_noinit = .
+                0x0000000010000594                PROVIDE (_pvHeapStart, DEFINED (__user_heap_base)?__user_heap_base:.)
+                0x0000000010002000                PROVIDE (_vStackTop, DEFINED (__user_stack_top)?__user_stack_top:(__top_RamLoc8 - 0x0))
+OUTPUT(remote_2_1.axf elf32-littlearm)
+
+.debug_info     0x0000000000000000     0x4a65
+ .debug_info    0x0000000000000000      0x147 ./remote_lpc1114/startup/cr_startup_lpc11.o
+ .debug_info    0x0000000000000147     0x1059 ./remote_lpc1114/src/RF22.o
+ .debug_info    0x00000000000011a0      0x5cc ./remote_lpc1114/src/RHReliableDatagram.o
+ .debug_info    0x000000000000176c      0x20b ./remote_lpc1114/src/led.o
+ .debug_info    0x0000000000001977      0x106 ./remote_lpc1114/src/m0utils.o
+ .debug_info    0x0000000000001a7d      0xa33 ./remote_lpc1114/src/main.o
+ .debug_info    0x00000000000024b0      0x7b5 ./remote_lpc1114/src/spi.o
+ .debug_info    0x0000000000002c65      0x6bd ./remote_lpc1114/src/trigInput.o
+ .debug_info    0x0000000000003322      0x737 ./remote_lpc1114/driver/gpio.o
+ .debug_info    0x0000000000003a59      0xb3c ./remote_lpc1114/driver/timer32.o
+ .debug_info    0x0000000000004595      0x4d0 ./remote_lpc1114/cmsis/system_LPC11xx.o
+
+.debug_abbrev   0x0000000000000000     0x10f2
+ .debug_abbrev  0x0000000000000000       0xae ./remote_lpc1114/startup/cr_startup_lpc11.o
+ .debug_abbrev  0x00000000000000ae      0x2f4 ./remote_lpc1114/src/RF22.o
+ .debug_abbrev  0x00000000000003a2      0x130 ./remote_lpc1114/src/RHReliableDatagram.o
+ .debug_abbrev  0x00000000000004d2      0x123 ./remote_lpc1114/src/led.o
+ .debug_abbrev  0x00000000000005f5       0xc0 ./remote_lpc1114/src/m0utils.o
+ .debug_abbrev  0x00000000000006b5      0x262 ./remote_lpc1114/src/main.o
+ .debug_abbrev  0x0000000000000917      0x159 ./remote_lpc1114/src/spi.o
+ .debug_abbrev  0x0000000000000a70      0x1c6 ./remote_lpc1114/src/trigInput.o
+ .debug_abbrev  0x0000000000000c36      0x1bb ./remote_lpc1114/driver/gpio.o
+ .debug_abbrev  0x0000000000000df1      0x1d8 ./remote_lpc1114/driver/timer32.o
+ .debug_abbrev  0x0000000000000fc9      0x129 ./remote_lpc1114/cmsis/system_LPC11xx.o
+
+.debug_aranges  0x0000000000000000      0x4b0
+ .debug_aranges
+                0x0000000000000000       0x50 ./remote_lpc1114/startup/cr_startup_lpc11.o
+ .debug_aranges
+                0x0000000000000050      0x1d0 ./remote_lpc1114/src/RF22.o
+ .debug_aranges
+                0x0000000000000220       0x78 ./remote_lpc1114/src/RHReliableDatagram.o
+ .debug_aranges
+                0x0000000000000298       0x38 ./remote_lpc1114/src/led.o
+ .debug_aranges
+                0x00000000000002d0       0x38 ./remote_lpc1114/src/m0utils.o
+ .debug_aranges
+                0x0000000000000308       0x50 ./remote_lpc1114/src/main.o
+ .debug_aranges
+                0x0000000000000358       0x30 ./remote_lpc1114/src/spi.o
+ .debug_aranges
+                0x0000000000000388       0x40 ./remote_lpc1114/src/trigInput.o
+ .debug_aranges
+                0x00000000000003c8       0x58 ./remote_lpc1114/driver/gpio.o
+ .debug_aranges
+                0x0000000000000420       0x60 ./remote_lpc1114/driver/timer32.o
+ .debug_aranges
+                0x0000000000000480       0x30 ./remote_lpc1114/cmsis/system_LPC11xx.o
+
+.debug_ranges   0x0000000000000000      0x400
+ .debug_ranges  0x0000000000000000       0x40 ./remote_lpc1114/startup/cr_startup_lpc11.o
+ .debug_ranges  0x0000000000000040      0x1c0 ./remote_lpc1114/src/RF22.o
+ .debug_ranges  0x0000000000000200       0x68 ./remote_lpc1114/src/RHReliableDatagram.o
+ .debug_ranges  0x0000000000000268       0x28 ./remote_lpc1114/src/led.o
+ .debug_ranges  0x0000000000000290       0x28 ./remote_lpc1114/src/m0utils.o
+ .debug_ranges  0x00000000000002b8       0x40 ./remote_lpc1114/src/main.o
+ .debug_ranges  0x00000000000002f8       0x20 ./remote_lpc1114/src/spi.o
+ .debug_ranges  0x0000000000000318       0x30 ./remote_lpc1114/src/trigInput.o
+ .debug_ranges  0x0000000000000348       0x48 ./remote_lpc1114/driver/gpio.o
+ .debug_ranges  0x0000000000000390       0x50 ./remote_lpc1114/driver/timer32.o
+ .debug_ranges  0x00000000000003e0       0x20 ./remote_lpc1114/cmsis/system_LPC11xx.o
+
+.debug_macro    0x0000000000000000     0x32ee
+ .debug_macro   0x0000000000000000       0x1d ./remote_lpc1114/startup/cr_startup_lpc11.o
+ .debug_macro   0x000000000000001d      0x81a ./remote_lpc1114/startup/cr_startup_lpc11.o
+ .debug_macro   0x0000000000000837       0xc6 ./remote_lpc1114/src/RF22.o
+ .debug_macro   0x00000000000008fd       0x19 ./remote_lpc1114/src/RF22.o
+ .debug_macro   0x0000000000000916       0x10 ./remote_lpc1114/src/RF22.o
+ .debug_macro   0x0000000000000926      0x12d ./remote_lpc1114/src/RF22.o
+ .debug_macro   0x0000000000000a53      0x5b2 ./remote_lpc1114/src/RF22.o
+ .debug_macro   0x0000000000001005      0x7ba ./remote_lpc1114/src/RF22.o
+ .debug_macro   0x00000000000017bf       0x1c ./remote_lpc1114/src/RF22.o
+ .debug_macro   0x00000000000017db      0x398 ./remote_lpc1114/src/RF22.o
+ .debug_macro   0x0000000000001b73       0x8d ./remote_lpc1114/src/RF22.o
+ .debug_macro   0x0000000000001c00      0x123 ./remote_lpc1114/src/RF22.o
+ .debug_macro   0x0000000000001d23       0x22 ./remote_lpc1114/src/RF22.o
+ .debug_macro   0x0000000000001d45       0x22 ./remote_lpc1114/src/RF22.o
+ .debug_macro   0x0000000000001d67       0xa0 ./remote_lpc1114/src/RF22.o
+ .debug_macro   0x0000000000001e07       0xc4 ./remote_lpc1114/src/RF22.o
+ .debug_macro   0x0000000000001ecb       0x10 ./remote_lpc1114/src/RF22.o
+ .debug_macro   0x0000000000001edb       0x22 ./remote_lpc1114/src/RF22.o
+ .debug_macro   0x0000000000001efd       0xe8 ./remote_lpc1114/src/RF22.o
+ .debug_macro   0x0000000000001fe5       0x88 ./remote_lpc1114/src/RHReliableDatagram.o
+ .debug_macro   0x000000000000206d       0x16 ./remote_lpc1114/src/RHReliableDatagram.o
+ .debug_macro   0x0000000000002083      0x7cf ./remote_lpc1114/src/RHReliableDatagram.o
+ .debug_macro   0x0000000000002852       0x5e ./remote_lpc1114/src/led.o
+ .debug_macro   0x00000000000028b0       0x28 ./remote_lpc1114/src/led.o
+ .debug_macro   0x00000000000028d8       0xc4 ./remote_lpc1114/src/led.o
+ .debug_macro   0x000000000000299c       0x11 ./remote_lpc1114/src/m0utils.o
+ .debug_macro   0x00000000000029ad      0x111 ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000002abe       0x22 ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000002ae0      0x37a ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000002e5a       0x2e ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000002e88       0x46 ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000002ece       0x34 ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000002f02       0x1c ./remote_lpc1114/src/main.o
+ .debug_macro   0x0000000000002f1e       0x7a ./remote_lpc1114/src/spi.o
+ .debug_macro   0x0000000000002f98       0xe2 ./remote_lpc1114/src/spi.o
+ .debug_macro   0x000000000000307a       0xd9 ./remote_lpc1114/src/trigInput.o
+ .debug_macro   0x0000000000003153       0x79 ./remote_lpc1114/driver/gpio.o
+ .debug_macro   0x00000000000031cc       0x79 ./remote_lpc1114/driver/timer32.o
+ .debug_macro   0x0000000000003245       0xa9 ./remote_lpc1114/cmsis/system_LPC11xx.o
+
+.debug_line     0x0000000000000000     0x274c
+ .debug_line    0x0000000000000000       0xff ./remote_lpc1114/startup/cr_startup_lpc11.o
+ .debug_line    0x00000000000000ff      0x8e8 ./remote_lpc1114/src/RF22.o
+ .debug_line    0x00000000000009e7      0x385 ./remote_lpc1114/src/RHReliableDatagram.o
+ .debug_line    0x0000000000000d6c      0x22a ./remote_lpc1114/src/led.o
+ .debug_line    0x0000000000000f96       0x8c ./remote_lpc1114/src/m0utils.o
+ .debug_line    0x0000000000001022      0x529 ./remote_lpc1114/src/main.o
+ .debug_line    0x000000000000154b      0x349 ./remote_lpc1114/src/spi.o
+ .debug_line    0x0000000000001894      0x3ba ./remote_lpc1114/src/trigInput.o
+ .debug_line    0x0000000000001c4e      0x3f1 ./remote_lpc1114/driver/gpio.o
+ .debug_line    0x000000000000203f      0x445 ./remote_lpc1114/driver/timer32.o
+ .debug_line    0x0000000000002484      0x2c8 ./remote_lpc1114/cmsis/system_LPC11xx.o
+
+.debug_str      0x0000000000000000     0x9a34
+ .debug_str     0x0000000000000000     0x240a ./remote_lpc1114/startup/cr_startup_lpc11.o
+                                       0x242a (size before relaxing)
+ .debug_str     0x000000000000240a     0x66db ./remote_lpc1114/src/RF22.o
+                                       0x8b5a (size before relaxing)
+ .debug_str     0x0000000000008ae5      0x18f ./remote_lpc1114/src/RHReliableDatagram.o
+                                       0x61fe (size before relaxing)
+ .debug_str     0x0000000000008c74      0x165 ./remote_lpc1114/src/led.o
+                                       0x2b02 (size before relaxing)
+ .debug_str     0x0000000000008dd9       0x4f ./remote_lpc1114/src/m0utils.o
+                                       0x2366 (size before relaxing)
+ .debug_str     0x0000000000008e28      0x414 ./remote_lpc1114/src/main.o
+                                       0x8a40 (size before relaxing)
+ .debug_str     0x000000000000923c      0x2c7 ./remote_lpc1114/src/spi.o
+                                       0x60ef (size before relaxing)
+ .debug_str     0x0000000000009503      0x125 ./remote_lpc1114/src/trigInput.o
+                                       0x6573 (size before relaxing)
+ .debug_str     0x0000000000009628       0xa3 ./remote_lpc1114/driver/gpio.o
+                                       0x5d57 (size before relaxing)
+ .debug_str     0x00000000000096cb      0x14e ./remote_lpc1114/driver/timer32.o
+                                       0x61d0 (size before relaxing)
+ .debug_str     0x0000000000009819      0x21b ./remote_lpc1114/cmsis/system_LPC11xx.o
+                                       0x5dcc (size before relaxing)
+
+.comment        0x0000000000000000       0xe0
+ .comment       0x0000000000000000       0x70 ./remote_lpc1114/startup/cr_startup_lpc11.o
+                                         0x71 (size before relaxing)
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/src/RF22.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/src/RHReliableDatagram.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/src/led.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/src/m0utils.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/src/main.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/src/spi.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/src/trigInput.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/driver/gpio.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/driver/timer32.o
+ .comment       0x0000000000000000       0x71 ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .comment       0x0000000000000070       0x70 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(_cr__main.o)
+                                         0x71 (size before relaxing)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(memcpy.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(floor.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(initio.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(setvbuf.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(stdio.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(memset.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_deferredlazyseek.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_fdopen.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_fflush.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_writebuf.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(alloc.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fclose.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fflush.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fseek.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(ftell.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(remove.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(strlen.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__init_alloc.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_cr_sbrk.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_do_fflush.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(errno.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_cr_check_heap.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .comment       0x0000000000000000       0x71 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+
+.ARM.attributes
+                0x0000000000000000       0x2f
+ .ARM.attributes
+                0x0000000000000000       0x31 ./remote_lpc1114/startup/cr_startup_lpc11.o
+ .ARM.attributes
+                0x0000000000000031       0x31 ./remote_lpc1114/src/RF22.o
+ .ARM.attributes
+                0x0000000000000062       0x31 ./remote_lpc1114/src/RHReliableDatagram.o
+ .ARM.attributes
+                0x0000000000000093       0x31 ./remote_lpc1114/src/led.o
+ .ARM.attributes
+                0x00000000000000c4       0x31 ./remote_lpc1114/src/m0utils.o
+ .ARM.attributes
+                0x00000000000000f5       0x31 ./remote_lpc1114/src/main.o
+ .ARM.attributes
+                0x0000000000000126       0x31 ./remote_lpc1114/src/spi.o
+ .ARM.attributes
+                0x0000000000000157       0x31 ./remote_lpc1114/src/trigInput.o
+ .ARM.attributes
+                0x0000000000000188       0x31 ./remote_lpc1114/driver/gpio.o
+ .ARM.attributes
+                0x00000000000001b9       0x31 ./remote_lpc1114/driver/timer32.o
+ .ARM.attributes
+                0x00000000000001ea       0x31 ./remote_lpc1114/cmsis/system_LPC11xx.o
+ .ARM.attributes
+                0x000000000000021b       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(_cr__main.o)
+ .ARM.attributes
+                0x000000000000024c       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(memcpy.o)
+ .ARM.attributes
+                0x000000000000027d       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(floor.o)
+ .ARM.attributes
+                0x00000000000002ae       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(initio.o)
+ .ARM.attributes
+                0x00000000000002df       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(setvbuf.o)
+ .ARM.attributes
+                0x0000000000000310       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(stdio.o)
+ .ARM.attributes
+                0x0000000000000341       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(memset.o)
+ .ARM.attributes
+                0x0000000000000372       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_deferredlazyseek.o)
+ .ARM.attributes
+                0x00000000000003a3       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_fdopen.o)
+ .ARM.attributes
+                0x00000000000003d4       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_fflush.o)
+ .ARM.attributes
+                0x0000000000000405       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_writebuf.o)
+ .ARM.attributes
+                0x0000000000000436       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(alloc.o)
+ .ARM.attributes
+                0x0000000000000467       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fclose.o)
+ .ARM.attributes
+                0x0000000000000498       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fflush.o)
+ .ARM.attributes
+                0x00000000000004c9       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(fseek.o)
+ .ARM.attributes
+                0x00000000000004fa       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(ftell.o)
+ .ARM.attributes
+                0x000000000000052b       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(remove.o)
+ .ARM.attributes
+                0x000000000000055c       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(strlen.o)
+ .ARM.attributes
+                0x000000000000058d       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(__init_alloc.o)
+ .ARM.attributes
+                0x00000000000005be       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_cr_sbrk.o)
+ .ARM.attributes
+                0x00000000000005ef       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_do_fflush.o)
+ .ARM.attributes
+                0x0000000000000620       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(errno.o)
+ .ARM.attributes
+                0x0000000000000651       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_c.a(_cr_check_heap.o)
+ .ARM.attributes
+                0x0000000000000682       0x21 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(division_32.o)
+ .ARM.attributes
+                0x00000000000006a3       0x21 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(division_idiv0.o)
+ .ARM.attributes
+                0x00000000000006c4       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(double.o)
+ .ARM.attributes
+                0x00000000000006f5       0x31 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(float.o)
+ .ARM.attributes
+                0x0000000000000726       0x21 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(llong.o)
+ .ARM.attributes
+                0x0000000000000747       0x21 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/armv6-m/libcr_eabihelpers.a(memcpy.o)
+ .ARM.attributes
+                0x0000000000000768       0x21 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_appexit.o)
+ .ARM.attributes
+                0x0000000000000789       0x21 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_close.o)
+ .ARM.attributes
+                0x00000000000007aa       0x21 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_flen.o)
+ .ARM.attributes
+                0x00000000000007cb       0x21 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_istty.o)
+ .ARM.attributes
+                0x00000000000007ec       0x21 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_remove.o)
+ .ARM.attributes
+                0x000000000000080d       0x21 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_seek.o)
+ .ARM.attributes
+                0x000000000000082e       0x21 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_tmpnam.o)
+ .ARM.attributes
+                0x000000000000084f       0x21 /Applications/lpcxpresso_7.5.0_254/lpcxpresso/tools/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv6-m/libcr_semihost.a(__sys_write.o)
+
+.debug_frame    0x0000000000000000      0xea0
+ .debug_frame   0x0000000000000000       0xd8 ./remote_lpc1114/startup/cr_startup_lpc11.o
+ .debug_frame   0x00000000000000d8      0x690 ./remote_lpc1114/src/RF22.o
+ .debug_frame   0x0000000000000768      0x184 ./remote_lpc1114/src/RHReliableDatagram.o
+ .debug_frame   0x00000000000008ec       0x8c ./remote_lpc1114/src/led.o
+ .debug_frame   0x0000000000000978       0x8c ./remote_lpc1114/src/m0utils.o
+ .debug_frame   0x0000000000000a04       0xe4 ./remote_lpc1114/src/main.o
+ .debug_frame   0x0000000000000ae8       0x6c ./remote_lpc1114/src/spi.o
+ .debug_frame   0x0000000000000b54       0xa8 ./remote_lpc1114/src/trigInput.o
+ .debug_frame   0x0000000000000bfc      0x10c ./remote_lpc1114/driver/gpio.o
+ .debug_frame   0x0000000000000d08      0x12c ./remote_lpc1114/driver/timer32.o
+ .debug_frame   0x0000000000000e34       0x6c ./remote_lpc1114/cmsis/system_LPC11xx.o
